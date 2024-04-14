@@ -29,7 +29,7 @@ body {
 /* Header styles */
 header {
     position: relative;
-    background-color: #E5DDC5; 
+    background-color: #627254; 
     color: #fff;
     padding: 20px 0;
     height: 120vh; 
@@ -84,7 +84,7 @@ nav ul li a:hover {
     background-color: #FFFFEC; 
 }
 
-/* Main sections styles */
+
 section {
     padding: 50px 0;
     text-align: center;
@@ -100,11 +100,11 @@ p {
     line-height: 1.6;
 }
 
-/* About section styles */
+
 #about {
 	background-color:#FEFDED;
     background-position: center;
-    padding: 50px 0; /* Add padding */
+    padding: 50px 0; 
     
 }
 
@@ -127,7 +127,7 @@ p {
 
 #species {
     background-color: #F8F6E3;
-    padding: 50px 0; /* Add padding */
+    padding: 50px 0; 
 }
 
 .species-grid {
@@ -220,12 +220,12 @@ p {
 }
 
 .message-section form input[type="submit"]:hover {
-    background-color: #555;
+    background-color: #575;
 }
 
 
 footer {
-    background-color:#9CAFAA ;
+    background-color:#627254 ;
     color: #fff;
     padding: 50px 0;
     text-align: center;
